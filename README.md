@@ -2,6 +2,8 @@
 
 Pıtırık Tarifler is a web application that helps users easily find recipes based on the ingredients they have at home, reducing food waste and providing quick meal suggestions. With a simple interface, users of all ages can quickly access recipes and prepare delicious meals, regardless of their kitchen experience. The platform aims to make cooking more enjoyable and promote a sustainable kitchen experience.
 
+My Kitchen feature, which allows users to save and manage ingredients they have at home, is only available to registered users. Once signed up, users can access this feature to track and use ingredients more efficiently.
+
 ### Features
 
 * Find recipes based on ingredients you have at home.
